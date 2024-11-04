@@ -1,5 +1,11 @@
 <h1 align="center"> Illuminating-Insights-for-Global-Electronics</h1>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Avijit-Jana/Illuminating-Insights-for-Global-Electronics?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Avijit-Jana/Illuminating-Insights-for-Global-Electronics?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Avijit-Jana/Illuminating-Insights-for-Global-Electronics?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Avijit-Jana/Illuminating-Insights-for-Global-Electronics?color=red&style=plastic)
+
+
 ## 📖Project Description 
 This is a Data Analysis project for gaining insights from csv files. Conduct a comprehensive Exploratory Data Analysis (EDA) for Global Electronics, a major consumer electronics retailer, to uncover valuable insights that will enhance customer satisfaction, optimize operations, and drive business growth.
 
