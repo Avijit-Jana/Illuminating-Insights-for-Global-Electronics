@@ -18,4 +18,10 @@ This is a Data Analysis project for gaining insights from csv files. Conduct a c
 2. **Dataset Overview :**
    - We are using sqlite3 to create and insert the processed data into our [dataset](https://github.com/Avijit-Jana/Illuminating-Insights-for-Global-Electronics/tree/main/Output%20Storage).
   
-<h2 align="center">Developed By - Avijit Jana</h3>
+## Required libraries
+**Install this Necessary Libraries By Using this code:**
+```Bash
+pip install pandas sqlite3
+```
+
+<h3 align="center">Developed By - Avijit Jana</h3>
